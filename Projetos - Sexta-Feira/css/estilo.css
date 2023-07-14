@@ -1,0 +1,56 @@
+/* mudando todas as configurações padrões do browse */
+*{
+margin: 10px;
+background-color: 
+}
+
+body{
+    background-color: #B5B3DE;
+}
+
+/* trabalhando com classe do titulo */
+.titulo {
+    color: #467312;
+    background-color:#7CA64C;
+    font-size: 28px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}   
+
+.texto{
+    align-items: center;
+    text-align: justify;
+    background-color:#7CA64C;
+    color: #467312;
+   /*  padding-left: 30px;
+    padding-right: 50px; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 20px  
+}
+
+.frase{
+    align-items: center;
+    text-align: justify;
+    background-color:#7CA64C;
+    color: #467312;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px  
+}
+
+.rodape{
+    align-items: center;
+    text-align: justify;
+    background-color:#4C61A6;
+    color: #B5B3DE;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px  
+}
